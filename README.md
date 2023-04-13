@@ -1,5 +1,7 @@
 ![OpenWrt logo](include/logo.png)
 
+该版本fork于官方openwrt，略作修改，筛选稳定内核，以解决小米cr660x无故重启问题.
+
 OpenWrt Project is a Linux operating system targeting embedded devices. Instead
 of trying to create a single, static firmware, OpenWrt provides a fully
 writable filesystem with package management. This frees you from the
